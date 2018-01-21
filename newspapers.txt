@@ -1,0 +1,4 @@
+The Daily Telegraph	conservative	english	daily	broadsheet	12.12
+i	centrist	english	daily	compact	10.10.2017
+Financial Times	economically liberal	AmEn	daily	broadsheet	21.10.2017
+The Mail Of Sunday	populist	AmEn	Sunday	tabloid	13.12.2017

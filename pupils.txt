@@ -1,0 +1,13 @@
+Lucy Walker	10	20.12.1990
+Andy Brain	2	12.12.1991
+Amber V. Ardent	100	12.10.1980
+Johne P. Jones	0	09.08.1995
+EMILIE	1	10.10.2010
+Lora	0
+Anna Walker	10	10.12.1990
+Alice Brain	10	12.12.1991
+Amber V. Crane	0	12.10.1980
+Ralph P. Jones	1	09.08.1995
+EMILIE	2	10.10.2010
+Lora	0
+

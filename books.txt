@@ -1,0 +1,5 @@
+The Call Of The Wild	fiction, historical	english	Jack London	1900.2
+
+The Great Gatsby	fiction	AmEn	F.Scott.Fitzerald	2008
+Robinson Crusoe	fiction	AmEn	D.Defoe	2015
+Alice’s Adventures in Wonderland	fiction	english	Lewis Carroll	2014
