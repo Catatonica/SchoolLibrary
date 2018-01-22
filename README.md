@@ -27,7 +27,7 @@ parent class(or superclass) for them.
   
  ## DETAILS
   
-# concerning files "books.txt" and others :
+### concerning files "books.txt" and others :
 
 Information is presented approximatelly in form of "Robinson Crusoe	fiction	AmEn	D.Defoe	2015"(1),
 where "Robinson Crusoe"– is the name of the book, "fiction" – category, "AmEn"– language, "D.Defoe" – author and "2015" –
@@ -39,7 +39,7 @@ write "20.15" at the place where year requires, you'll get a corresponding messa
 Also, there's a list of required info to be marked as valid. For "pupils.txt" it is name and count of books read for the 
 2nd task and name,count of books and date of birth for the 3rd. If there is other info – good, isn't – that's all right.
   
-# technical details:
+### technical details:
 
 I'd like to clarify some – firstly, about reading from files in 4 threads simultaneously – it is not obligatorily to do
 it on small sizes, I've checked time and know that it saves only ~0.1 s, but I believe, this value will be much more 
