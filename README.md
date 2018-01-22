@@ -27,7 +27,7 @@ parent class(or superclass) for them.
   
  ## DETAILS
   
-### concerning files "books.txt" and others :
+### concerning file "books.txt" and others :
 
 Information is presented approximatelly in form of "Robinson Crusoe	fiction	AmEn	D.Defoe	2015"(1),
 where "Robinson Crusoe"– is the name of the book, "fiction" – category, "AmEn"– language, "D.Defoe" – author and "2015" –
