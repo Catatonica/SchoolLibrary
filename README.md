@@ -27,27 +27,31 @@ parent class(or superclass) for them.
   
  ## DETAILS
   
-– concerning files "books.txt" and others :
-  Information is presented approximatelly in form of "Robinson Crusoe	fiction	AmEn	D.Defoe	2015"(1),
-  where "Robinson Crusoe"– is the name of the book, "fiction" – category, "AmEn"– language, "D.Defoe" – author and "2015" –
-  year of publication.
+# concerning files "books.txt" and others :
+
+Information is presented approximatelly in form of "Robinson Crusoe	fiction	AmEn	D.Defoe	2015"(1),
+where "Robinson Crusoe"– is the name of the book, "fiction" – category, "AmEn"– language, "D.Defoe" – author and "2015" –
+year of publication.
   
-  TAB is a delimeter between them. If you write (1) via spaces, all of it will be defined as the name. There are several 
-  verifications to check out whether you've wrote right information or not. For instance, empty lines are skipped and if u 
-  write "20.15" at the place where year requires, you'll get a corresponding message. 
-  Also, there's a list of required info to be marked as valid. For "pupils.txt" it is name and count of books read for the 
-  2nd task and name,count of books and date of birth for the 3rd. If there is other info – good, isn't – that's all right.
-– technical details:
-  I'd like to clarify some – firstly, about reading from files in 4 threads simultaneously – it is not obligatorily to do
-  it on small sizes, I've checked time and know that it saves only ~0.1 s, but I believe, this value will be much more 
-  higher on huge sizes. 
-  And the second thing is sort. I prefered to use Java's internal method Collections.sort(), though I could wrote 
-  sort by myself and here's a reason:
-  "This implementation is a stable, adaptive, iterative mergesort that requires far fewer than n lg(n) comparisons when the 
-  input array is partially sorted, while offering the performance of a 
-  traditional mergesort when the input array is randomly ordered. If the input array is nearly sorted, the implementation
-  requires approximately n comparisons. Temporary storage requirements vary from a small constant for nearly sorted input
-  arrays to n/2 object references for randomly ordered input arrays."(c)–docs.oracle.com.
+TAB is a delimeter between them. If you write (1) via spaces, all of it will be defined as the name. There are several 
+verifications to check out whether you've wrote right information or not. For instance, empty lines are skipped and if u 
+write "20.15" at the place where year requires, you'll get a corresponding message. 
+Also, there's a list of required info to be marked as valid. For "pupils.txt" it is name and count of books read for the 
+2nd task and name,count of books and date of birth for the 3rd. If there is other info – good, isn't – that's all right.
+  
+# technical details:
+
+I'd like to clarify some – firstly, about reading from files in 4 threads simultaneously – it is not obligatorily to do
+it on small sizes, I've checked time and know that it saves only ~0.1 s, but I believe, this value will be much more 
+higher on huge sizes. 
+
+And the second thing is sort. I prefered to use Java's internal method Collections.sort(), though I could wrote 
+sort by myself and here's a reason:
+"This implementation is a stable, adaptive, iterative mergesort that requires far fewer than n lg(n) comparisons when the 
+input array is partially sorted, while offering the performance of a 
+traditional mergesort when the input array is randomly ordered. If the input array is nearly sorted, the implementation
+requires approximately n comparisons. Temporary storage requirements vary from a small constant for nearly sorted input
+arrays to n/2 object references for randomly ordered input arrays."(c)–docs.oracle.com.
       
 
     
