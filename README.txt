@@ -7,7 +7,9 @@
 
 	Class «SchoolLibraryHelper» – the main class where all significant methods are invoked.
 
-	Package src contains file «pupils.txt» (in which all information about pupils is saved) and 4 others, which one of them contains different kinds of literature, that are in school library: «books.txt», «journals.txt», «articles.txt» and «newspapapers.txt». Default delimeter is TAB.
+	Package src contains file «pupils.txt» (in which all information about pupils is saved) and 4 others, which one of
+	them contains different kinds of literature, that are in school library: «books.txt», «journals.txt», «articles.txt» 
+	and «newspapapers.txt». Default delimeter is TAB.
 
 	In method «printLiteratureList» information about all presented kinds of literature gathers simultaniously from different files and then prints.
 
